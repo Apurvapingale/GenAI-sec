@@ -1,0 +1,42 @@
+# Ignore config.py in this directory
+config.py
+
+# Ignore the virtual environment in this directory
+venv/
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environments (general)
+ENV/
+env/
+.venv/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore environment variables files
+.env
+*.env
+
+# Ignore compiled code
+*.so
+
+# Ignore Python egg and distribution builds
+*.egg
+*.egg-info/
+dist/
+build/
+*.pyd
+
+# Ignore logs
+*.log
+*.out
+*.err
+
+# Ignore IDE-specific settings
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
